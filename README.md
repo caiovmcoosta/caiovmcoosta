@@ -3,7 +3,7 @@
 &nbsp; <a href="mailto:caiocoosta2808@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-<h1> Eaeee, me chamo Caio! <img src="https://media.giphy.com/media/88jicn4wzUU6NC0iPQ/giphy-downsized.gif" width="80"></h1>
+<h1> Eaeee, me chamo Caio! <img src="https://media.giphy.com/media/88jicn4wzUU6NC0iPQ/giphy-downsized.gif" width="100"></h1>
 <img align="right" alt="GIF" src="https://pa1.narvii.com/6484/b93255da56ec60939e2e209dd48a8b69a1194981_hq.gif" width="500"/>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
