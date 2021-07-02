@@ -14,8 +14,8 @@
 
 <h3>🛠 Competências Técnicas</h3>
 
-- 💻 &nbsp; C | Java 
-- 🔧 &nbsp; Hardware
+- 💻 &nbsp; C | C# | Java | HTML | CSS
+- 🔧 &nbsp; Hardware | Suporte
 - 🖥 &nbsp; Windows | Pacote Office 
 
 <br>
