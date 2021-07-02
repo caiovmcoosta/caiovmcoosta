@@ -9,7 +9,7 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 - 🎓 &nbsp; Estudante de Ciências da Computação na UniMetrocamp;
-- 📱 &nbsp; &nbsp; Fascinado por tecnologia desde criança;
+- 📱 &nbsp; &nbsp; Fascinado por tecnologia e automação;
 - 💼 &nbsp; Atualmente estou em busca de um estágio;
 
 <h3>🛠 Competências Técnicas</h3>
