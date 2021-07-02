@@ -1,6 +1,6 @@
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/ferreiradh/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:henferr66@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/caiovmcoosta/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:caiocoosta2808@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 <h2> Eaeee, me chamo Caio! <img src="https://media3.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="75"></h2>
