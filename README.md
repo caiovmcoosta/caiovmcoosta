@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Estudante de Ciências da Computação na UniMetrocamp;
 - 📱 &nbsp; &nbsp; Fascinado por tecnologia e automação;
-- 💼 &nbsp; Atualmente estou em busca de um estágio;
+- 💼 &nbsp; Atualmente trabalhando como técnico em informática e suporte;
 - 📚 &nbsp; Iniciando estudos em programação 🤩;
 
 <h3>🛠 Competências Técnicas</h3>
