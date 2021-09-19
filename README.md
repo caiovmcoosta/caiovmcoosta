@@ -4,7 +4,7 @@
 </p>
 
 <h1> Eaeee, me chamo Caio! <img src="https://media.giphy.com/media/88jicn4wzUU6NC0iPQ/giphy-downsized.gif" width="100"></h1>
-<img align="right" alt="GIF" src="https://pa1.narvii.com/6484/b93255da56ec60939e2e209dd48a8b69a1194981_hq.gif" width="500"/>
+<img align="right" alt="GIF" src="https://s2.glbimg.com/BpGJr5Ulk2KP6WK8xgrx0EARNW4=/0x0:500x281/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/W/L/qKl4yETiuCZaQ0rxejow/giphy-1-.gif" width="500"/>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
